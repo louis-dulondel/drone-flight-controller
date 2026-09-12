@@ -43,4 +43,4 @@ tested on bench. Next steps: motor output (ESC + PWM) and flight testing.
 
 ## Author
 
-[Ton nom] — returning to embedded/aerospace engineering.
+Louis Dulondel — returning to embedded/aerospace engineering.
